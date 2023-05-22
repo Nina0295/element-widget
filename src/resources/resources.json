@@ -1,0 +1,71 @@
+{
+  "appTitle": {
+    "value": "Select items",
+    "description": "Title for the widget"
+  },
+  "selectedItems": {
+    "value": "You currently have {0} selected items.",
+    "description": "Text that displays the number of selected items"
+  },
+  "currentSelectedItems": {
+    "value": "Current selected items: ",
+    "description": "Text that displays the current selected items"
+  },
+  "changeSelection": {
+    "value": "Change my choice",
+    "description": "Label for the button that opens the dialog to change selection"
+  },
+  "dialogTitle": {
+    "value": "Select items",
+    "description": "Title for the dialog to select items"
+  },
+  "elementLabel": {
+    "value": "Element",
+    "description": "Label for each selectable element"
+  },
+  "loadingHeader": {
+    "value": "Loading...",
+    "description": "Show loading header while resources uploads"
+  },
+  "selectedElementRemoveButton": {
+    "value": "Remove element",
+    "description": "Label for the button to remove a selected element",
+    "icon": "x"
+  },
+  "closedButton": {
+    "value": "Close dialog",
+    "description": "Label for the closed dialog button",
+    "icon": "x"
+  },
+  "search": {
+    "value": "Search",
+    "description": "Label for the search input"
+  },
+  "filter": {
+    "value": "Filter",
+    "description": "Label for the filter select"
+  },
+  "filterOptions": [
+    {
+      "value": "undefined",
+      "label": "No filter",
+      "description": "No filtering applied"
+    },
+    {
+      "value": "10",
+      "label": ">10",
+      "description": "Filter elements with a value greater than 10"
+    },
+    {
+      "value": "50",
+      "label": ">50",
+      "description": "Filter elements with a value greater than 50"
+    },
+    {
+      "value": "100",
+      "label": ">100",
+      "description": "Filter elements with a value greater than 100"
+    }
+  ]
+}
+  
